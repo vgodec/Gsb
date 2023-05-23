@@ -1,0 +1,15 @@
+.arriere{
+    background-color:coral;
+    padding:5Px;
+    width: 50%;
+    text-align: center;
+    border-radius:5px;
+}
+
+.titre{
+    color:white;
+}
+
+.bouton:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,64 @@
+.saisie_input{
+    width: 50px; 
+}
+.frais{
+    width: 300px;
+  }
+
+.arriere{
+    background-color: #c7edf7;
+}
+
+.saisie{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: DodgerBlue;
+    border-radius: 25px;
+    padding:10px;
+    width: 50%;
+    border: 1px solid;
+    border-color: blue;
+    color:white;
+    height: 75%;
+}
+
+.celluletab{
+    background-color: rgb(255, 255, 255);
+    vertical-align:middle;
+}
+
+.celluletab:hover{
+    background-color: rgb(177, 237, 188);
+}
+
+th{
+    background-color: lightblue;
+    text-align: left;
+    width:30%;
+}
+
+.bouton{
+    cursor: pointer;
+}
+
+table{
+    width:100%;
+}
+
+.validation{
+    background-color: lightcyan;
+    border:solid 1px;
+    border-color: lightcyan;
+    cursor: pointer;
+    margin: 5px;
+    transition: 0.2s;
+}
+
+.validation:hover{
+    background-color: white;
+    padding:5px;
+}
+
+.test{
+    margin-bottom: 10PX;
+}

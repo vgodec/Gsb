@@ -1,0 +1,16 @@
+.frais{
+    border: 3px ridge #c7c7c7;
+    background-color: lightblue;
+  }
+
+  .tablefrais {
+    border-collapse: collapse;
+    width: 80%;
+    text-align: center;
+    
+  }
+
+
+  input{
+    width: 40px;  
+  }

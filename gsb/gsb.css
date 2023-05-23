@@ -1,0 +1,77 @@
+.valide{
+    background-color: #FF7A33;
+    padding : 5px 5px 5px 5px;
+    margin: auto;
+    width:75%;
+    color:white;
+}
+
+.tablo{ 
+    border-color:#FFFFFF;
+    text-align:center;
+}
+
+
+.txt{
+    background-color:#FF7A33;
+    border-color:#FFFFFF;
+    color:#FFFFFF;
+    margin:5px;
+    width:50%;
+}
+
+.cellule{
+    padding:20px 100px 20px 10px;
+}
+
+.bouton{
+    color:#FF7A33;
+    border-color:#1eb4b4;
+}
+
+.bg_bouton{
+    background-color:#FF7A33;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+}
+
+.carre{
+    background-color:#FF7A33;
+    border-color:white;
+    text-align:center;
+    color:white;
+    width: 30px;
+}
+
+.espacement{
+    width:100px;
+}
+
+.mise_paiement{
+    background-color:#FF7A33;
+    color:#FFFFFF;
+    padding : 5px 5px 5px 5px;
+    margin: auto;
+    height:50%;
+    width:75%;
+    text-align:center;
+}
+
+.bouton{
+    color:#FF7A33;
+    border-color:#1eb4b4;
+}
+
+.bouton2{
+    color:#1eb4b4;
+    border-color:#1eb4b4;
+}
+
+
+.accueil{
+    background-color: #c7edf7;
+    padding : 5px 5px 5px 5px;
+    margin: auto;
+    width:75%;
+}

@@ -1,0 +1,35 @@
+
+table{
+  border-color: rgb(199, 237, 247); 
+}
+.ligne{
+  background-color: white;
+}
+body {
+background-color: #c7edf7   ; 
+}
+table {
+width: 100%;
+}
+thead {
+background-color: DodgerBlue ;
+}
+a{
+  color:black;
+  font-size: 20px;
+}
+h1 {
+  color: rgb(70, 155, 224);
+}
+
+.image{
+  height: 48px;
+  width: 48px; 
+  transition:0.2s;
+}
+
+.image:hover{
+  height: 52px;
+  width: 52px; 
+  cursor:pointer;
+}
